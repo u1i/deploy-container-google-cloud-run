@@ -60,6 +60,8 @@ In the section "Deploy one revision from an existing container image" click the 
 
 On the right side, select "Container Registry". There, select the container image and version you have just pushed to the registry.
 
+![](gcrun-myhello.jpg)
+
 
 
 

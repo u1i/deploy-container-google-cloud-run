@@ -68,7 +68,13 @@ In the 'Authentication' section, please tick "Allow unauthenticated invocations"
 
 Review the other settings, change the server location if you like. Click "Create" to finalize.
 
-## 10
+## 10: Verify and test your endpoint
+
+Identify the endpoint of your new service and click on it to see if it works!
+
+![](gcrun-run.jpg)
+
+
 
 
 

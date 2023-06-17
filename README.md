@@ -34,11 +34,11 @@ you need to know your Google project ID. E.g. joechip02
 if you cannot find your project [look here](https://console.cloud.google.com/billing/projects)
 
 ### Tag the container -> it's going to be on GCR
-`docker tag myhello2 gcr.io/<PROJECT_ID>/myhello`
+`docker tag myhello gcr.io/<PROJECT_ID>/myhello`
 
 so in this case it would be:
 
-`docker tag myhello2 gcr.io/joechip02/myhello`
+`docker tag myhello gcr.io/joechip02/myhello`
 
 ### Push it to the registry
 

@@ -62,6 +62,13 @@ On the right side, select "Container Registry". There, select the container imag
 
 ![](gcrun-myhello.jpg)
 
+In the 'Authentication' section, please tick "Allow unauthenticated invocations"
+
+![](gcrun-auth.png)
+
+Review the other settings, change the server location if you like. Click "Create" to finalize.
+
+## 10
 
 
 

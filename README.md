@@ -1,3 +1,5 @@
+updated version is here [https://github.com/u1i/docker-google-cloud-run]
+
 # Deploy a container to Google Cloud Run
 
 ## 1: Open Google Cloud Shell
